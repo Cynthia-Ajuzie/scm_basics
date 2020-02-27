@@ -5,4 +5,4 @@ reversed = character + reversed
 }
 
 }
-console.log('cynthia')
+console.log(reverse('cynthia'))
